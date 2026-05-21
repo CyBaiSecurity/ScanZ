@@ -3,8 +3,8 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![License](https://img.shields.io/github/license/CyBaiSecurity/ScanZ?style=flat-square)
 
-![ScanZ UI 1](docs/main_ui.png)
-![ScanZ UI 1](docs/main_ui-1.png)
+
+<p align="center"> <img src="docs/main_ui.png" width="300" alt="ScanZ UI 1"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="docs/main_ui-1.png" width="300" alt="ScanZ UI 2"> </p>
 
 **Leverage Shizuku to bypass Android 11+ sandboxing for stealthy Layer-2 network reconnaissance.**
 
