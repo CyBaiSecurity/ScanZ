@@ -1,0 +1,42 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.gradle/
+local.properties
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/modules/
+
+# Build Output
+build/
+app/build/
+captured_screenshots/
+
+# Native Build
+.cxx/
+
+# Keystores / Secrets
+*.jks
+*.keystore
+*.p12
+google-services.json
+
+# Binaries / Releases (Mandatory Block)
+*.apk
+*.aab
+*.jar
+*.aar
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Misc
+.navigation/
+*.swp
+*~
+*.orig
