@@ -185,6 +185,7 @@
   },
   "active": "0ac6fc9177129fca",
   "lastOpenFiles": [
+    "LICENSE",
     "app/release/ScanZ.apk",
     "app/build/outputs/sdk-dependencies/release/sdkDependencies.txt",
     "app/build/outputs/sdk-dependencies/release",
@@ -195,7 +196,6 @@
     "app/build/intermediates/version_control_info_file",
     "app/build/intermediates/validate_signing_config/release/validateSigningRelease",
     "app/build/intermediates/validate_signing_config/release",
-    "app/build/intermediates/signing_config_versions/release/writeReleaseSigningConfigVersions/signing-config-versions.json",
     "app/build/intermediates/packaged_res/release/packageReleaseResources/mipmap-xxxhdpi-v4/ic_launcher_round.webp",
     "app/build/intermediates/packaged_res/release/packageReleaseResources/mipmap-xxxhdpi-v4/ic_launcher.webp",
     "app/build/intermediates/packaged_res/release/packageReleaseResources/mipmap-xxhdpi-v4/ic_launcher_round.webp",

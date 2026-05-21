@@ -1,4 +1,4 @@
-# ScanZ // Advanced Android Reconnaissance
+# ScanZ // Advanced Android Network Reconnaissance
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![License](https://img.shields.io/github/license/CyBaiSecurity/ScanZ?style=flat-square)
